@@ -1,0 +1,62 @@
+==================================================================
+https://keybase.io/kyankerr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kyankerr.github.io
+  * I am kyankerr (https://keybase.io/kyankerr) on keybase.
+  * I have a public key with fingerprint 43D6 A2F6 0FAA BDC6 A91F  4EC9 272D 7174 8084 ED78
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0116f530709771a29b1d1b8c83b23d92751bc5bb17a33564c2151ac703fecb7351b80a",
+      "fingerprint": "43d6a2f60faabdc6a91f4ec9272d71748084ed78",
+      "host": "keybase.io",
+      "key_id": "272d71748084ed78",
+      "kid": "0116f530709771a29b1d1b8c83b23d92751bc5bb17a33564c2151ac703fecb7351b80a",
+      "uid": "a05b8c6b6021f141889ad2d30fd60219",
+      "username": "kyankerr"
+    },
+    "service": {
+      "hostname": "kyankerr.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1665393457,
+  "expire_in": 157680000,
+  "prev": "1ce40e6a65e931f98908d668252439b7ed0db078193860909391b72dfe8ee7e1",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owJ4nK1SPWgUQRjd0zPBA8EinCgoZEBFOMLMzu78HIKCFhJEtJAUisfMzreX9eLu
+urt3yZmktxFEsLGzEe3EThFEsFPSilhJ4CBgk0bRA3XmNI1YOs0w73vvzfs+vrv7
+dnuN5tTjvCs/XRnV3m5pLzqzGa4inZkhaq+iHkwuWDJQVp1eYlAbYUJYHFLMseSc
+KF9qYogWkaDap0b6PCQ6CrUmXFEasiDySUhUxDGNIdKc2rLACrVQnKRdKPIiSStr
+G1DDlB8zHCulTcSUJHEAkfXzDSc8EFgEYLiwwsWsdAobTqsS5pLMYvbRmcT7B/8/
+5+5P7BQOrZhphn0Sk4AIIZXxDcWxcZB0xBKKVN0Al3Wo0h4UBVpvIYsOkgjcYF0n
+fzHmukm12Ne/u8qLrMqibMnWF6sqL9tOXw1zJ1gG3flj1dFJauw0rWIARZlkKWoT
+y4yqxHkTxkIqaRDyFoKVPCmgkzhGyJnA9rh/YGAtybUIAgxMsRAkJbEUEgvDmPBD
+P6BSczDYaMwFkVQwLLGkkmg78BgEAAeCXHc30wy1A5tTda1nmXRTVfULQOuN2/26
+12x4h5uz9Uuvfm4cOfTy2Hh8oNhZwD273PZ5jb37d5A752veg87W/KZcuH70a/pj
+drp+6umTz6PvMxfXTty6/+Leu+mrNe/Rmwsf3p98PT8zXjken/t2em3jy8fRs4fL
+2wuXDz4/uz31C3r07DM=
+=0EBa
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kyankerr
+
+==================================================================
