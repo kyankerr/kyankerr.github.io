@@ -1,0 +1,3 @@
+[submodule "gpg"]
+	path = gpg
+	url = git@github.com:kyankerr/gpg.git
